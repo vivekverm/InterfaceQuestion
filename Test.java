@@ -17,5 +17,7 @@ public class Test {
                System.out.println("Programmer of Java");
            }
         };
+        obj.play();
+        obj1.play();
     }
 }
